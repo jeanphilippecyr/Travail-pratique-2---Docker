@@ -13,6 +13,6 @@ docker run --name mongodb --network mon_reseau -e MONGO_INITDB_ROOT_USERNAME=adm
 docker network ls
 docker ps
 
-![Texte alternatif]([URL_de_l'image](https://github.com/jeanphilippecyr/Travail-pratique-2---Docker/blob/main/images/Screenshot%202023-12-04%20093047.png)https://github.com/jeanphilippecyr/Travail-pratique-2---Docker/blob/main/images/Screenshot%202023-12-04%20093047.png)
+!(https://github.com/jeanphilippecyr/Travail-pratique-2---Docker/blob/main/images/Screenshot%202023-12-04%20093047.png)https://github.com/jeanphilippecyr/Travail-pratique-2---Docker/blob/main/images/Screenshot%202023-12-04%20093047.png)
 
 docker logs apache
