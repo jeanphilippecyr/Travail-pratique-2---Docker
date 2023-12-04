@@ -2,7 +2,7 @@
 
 ![](https://github.com/jeanphilippecyr/Travail-pratique-2---Docker/blob/main/images/Screenshot%202023-12-04%20093047.png)
 
-Section 1 - étape 2
+## Section 1 - étape 2
 
 docker network create mon_reseau
 
